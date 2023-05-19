@@ -6,6 +6,6 @@
 -- ('INT2214 4', 'Nguyên lý hệ điều hành lớp 4'),
 -- ('INT3110 1', 'Phân tích thiết kế lớp 1'),
 -- ('MAT1101 1', 'Xác suất thống kê lớp 1'),
--- ('INT3202 4', 'HQT cơ sở dữ liệu lớp 4');
+-- ('INT3202 4', 'Hệ quản trị cơ sở dữ liệu lớp 4');
 
 select * from course
